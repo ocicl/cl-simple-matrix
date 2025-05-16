@@ -4,6 +4,6 @@ Common Lisp library with basic functions for matrices.
 
 |---------+---------------------------------------------------|
 | source  | git:https://codeberg.org/glv/cl-simple-matrix.git |
-| commit  | 5dba943                                           |
+| commit  | df5b456                                           |
 | systems | simple-matrix                                     |
 |---------+---------------------------------------------------|
